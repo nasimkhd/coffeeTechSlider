@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background: linear-gradient(to bottom , #ffffff 0% , #e5e5e5 100%);
+}
+
+h1 {
+    font-family: 'Dancing Script' , cursive;
+    text-align: center;
+    color: #666666;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.container {
+    width: 635px;
+    margin: 100px auto 0 auto; 
+    position: relative;
+}
+
+.slider {
+    height: 332px;
+}
+
+.slider img {
+    padding:  15px;
+    border: 1px solid #ccc;
+    background-color: #eee;
+}
+
+#nav {
+    list-style-type: none;
+    z-index: 150;
+}
+#nav li a {
+    display: block;
+    width: 58px;
+    height: 102px;
+    text-indent: -9999px;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
